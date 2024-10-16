@@ -1,5 +1,4 @@
 # Amazon-Clone
-# Amazon-Clone
 This is a simple Amazon clone created using HTML and CSS. It is a static webpage that mimics the basic layout and design of Amazon's homepage.
 <br>
 <h1>Features</h1>

@@ -22,10 +22,10 @@ This is a simple Amazon clone created using HTML and CSS. It is a static webpage
 <br>
 <ul>
   <li>
-    <b>HTML5:<b> For structuring the content.
+    <b>HTML:<b> For structuring the content.
   </li>
   <li>
-    <b>CSS3:</b>For styling and layout
+    <b>CSS :</b>For styling and layout
   </li>
     
 </ul>
